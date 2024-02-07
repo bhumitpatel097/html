@@ -1,0 +1,6 @@
+git pull origin <branch> // latest code fetch
+git checkout -b <branch> // new branch 
+git checkout <branch> // checkout existing branch
+git add . // file track 
+git commit -m "<message>" // code commit to local
+git push origin <branch> // server latest code commit 
